@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ASRock\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ASRock\\.nuget\\packages"
+    ]
+  }
+}
